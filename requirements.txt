@@ -1,4 +1,0 @@
-streamlit
-pandas
-requests
-curl_cffi
