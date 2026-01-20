@@ -87,5 +87,6 @@ else:
 # Pie de página
 st.sidebar.markdown("---")
 st.sidebar.caption("v1.1.0 | Sherlock Holmes Supermercados")
-st.sidebar.caption("🚀 Desarrollado por: Alejando Sanchez y Andrew Villamar")
+st.sidebar.caption("🚀 Desarrollado por: Alejando Sánchez y Andrew Villamar")
 st.sidebar.caption("Proyecto de Ciencia de Datos e Intelgencia Artificial, para la asigantura de ALN - 2026")
+
